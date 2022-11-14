@@ -1,0 +1,1 @@
+-console -novid -nojoy -tickrate 128 -noipx -nod3d9ex1 -noforcemaccel -noforcemparms
